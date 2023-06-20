@@ -46,7 +46,7 @@ class Result
      * Creates a new Result representing success with a value.
      *
      * @template TValue
-     * @param ?TValue $value The value representing the successful result.
+     * @param (TValue is void ? null : TValue) $value The value representing the successful result.
      * @return self<TValue, mixed> The Result object representing success.
      */
     public static function ok($value = null): self
