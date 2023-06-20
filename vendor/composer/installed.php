@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'wulfheart/result',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '39b4960d074dcf97cefd326ba40a2d8ee8c7b27a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => true,
         ),
         'wulfheart/result' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '39b4960d074dcf97cefd326ba40a2d8ee8c7b27a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
